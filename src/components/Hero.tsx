@@ -52,7 +52,7 @@ const Hero: FC = () => {
           }}
         >
           <img
-            src='url("/Venkat_portimag.png")'
+            src="/Venkat_portimag.png"
             alt="Venkatesh C"
             className="rounded-full w-full h-full object-cover shadow-lg"
           />
